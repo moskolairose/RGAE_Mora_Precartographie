@@ -1,0 +1,12 @@
+# Assets GEE et identifiants
+*.token
+.env
+
+# Fichiers temporaires
+*.tmp
+.DS_Store
+
+# Données brutes volumineuses (à héberger séparément si besoin)
+data/raw/
+*.tif
+*.tiff
