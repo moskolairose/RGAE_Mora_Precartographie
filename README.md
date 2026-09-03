@@ -30,7 +30,7 @@ Le détail complet de la méthodologie de référence (RGAE/EOSTAT) est résumé
 
 - Un **pipeline GEE complet et reproductible** ([`scripts/01_pipeline_mora.js`](scripts/01_pipeline_mora.js)), depuis la collecte brute jusqu'au clustering et à l'export.
 - Un processus de **débogage réel documenté** : gestion des fenêtres temporelles sans données (nébulosité persistante), erreurs de typage GEE (`MaskOnly` vs `Float`), limites de calcul (`maxPixels`), diagnostic d'artefacts de nébulosité résiduelle — voir [`docs/FINDINGS.md`](docs/FINDINGS.md).
-- Une **démarche de validation honnête** : le test d'une hypothèse spécifique (détection du signal phénologique de la culture de contre-saison *muskuwaari*) qui n'a **pas été confirmée** aux échelles d'agrégation testées — documenté comme limite plutôt que masqué, avec les pistes d'investigation identifiées pour la suite.
+- Une **démarche de validation réaliste** : le test d'une hypothèse spécifique (détection du signal phénologique de la culture de contre-saison *muskuwaari*) qui n'a **pas été confirmée** aux échelles d'agrégation testées — documenté comme limite, avec les pistes d'investigation identifiées pour la suite.
 
 ## Résultat final — Mora
 
