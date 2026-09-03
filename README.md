@@ -52,7 +52,7 @@ Le détail complet de la méthodologie de référence (RGAE/EOSTAT) est résumé
 
 ✅ **Pilote Mora complété** — pipeline GEE (collecte, fusion S1/S2, clustering K-means), validation croisée avec sources publiques (WorldCover, WorldCereal), carte finale interprétée et mise en page QGIS.
 
-🔶 **Prochaines étapes** : extension aux 3 autres zones RGAE (Buea, Fongo-Tongo, Bamenda I), avec paramètres recalibrés par zone (périodes de collecte, seuils de nébulosité — Buea nécessitera une attention particulière à la nébulosité équatoriale).
+🔶 **Prochaines étapes** : extension à d'autres zones (Buea, Fongo-Tongo, Bamenda I), avec paramètres recalibrés par zone (périodes de collecte, seuils de nébulosité — Buea nécessitera une attention particulière à la nébulosité équatoriale).
 
 ## Structure du dépôt
 
@@ -69,8 +69,9 @@ Le détail complet de la méthodologie de référence (RGAE/EOSTAT) est résumé
 
 ## Auteur
 
-**Rose Moskolai** — Responsable régionale des Affaires Générales et des Systèmes d'Information, MINEPIA (Cameroun). Doctorat en informatique, spécialisation SIG, télédétection et analyse spatiale.
+**Rose Moskolai** — Spécialiste IA et données géospatiales.
+Doctorat en informatique, spécialisation IA, SIG, télédétection et analyse spatiale.
 
 ---
 
-*Ce projet a été développé dans un contexte professionnel réel (appui méthodologique au RGAE) et est partagé ici à des fins de démonstration technique.*
+*Ce projet a été développé dans le cadre d'un appui méthodologique au recensement des surfaces agricoles dans les zones diffciles d'accès .*
